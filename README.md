@@ -1,0 +1,1 @@
+# sneh-purple-typora-theme
