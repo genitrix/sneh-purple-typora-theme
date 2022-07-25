@@ -1,6 +1,6 @@
-# sneh purple typora theme
+# Sneh Purple Typora Theme
 
-A typora theme that combine the characteristics of sneh and purple.
+A typora theme that combine the characteristics of Sneh and Purple.
 
 Sneh: https://theme.typora.io/theme/Sneh/
 
